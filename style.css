@@ -96,6 +96,7 @@ body p{
 @media (max-width:375px) {
     body{
         margin: 0px;
+        box-sizing: border-box;
         padding: auto;
     }
     .container{
