@@ -1,7 +1,6 @@
 
 body{
     font-family: 'Plus Jakarta Sans', sans-serif;
-    /* max-width: 1440px; */
     background-color: hsl(210, 60%, 98%);
 }
 body p{
@@ -101,7 +100,7 @@ body p{
     }
     .container{
         min-width: 90%;
-        margin: auto;
+        margin: 0px;
         padding: 10px;
     } 
     .unread img, .read img{
