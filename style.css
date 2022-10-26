@@ -94,7 +94,7 @@ body p{
 #chess{
     float: right; 
 }
-@media (max-width:365px) {
+@media (max-width:375px) {
     body{
         margin: 0px;
         padding: auto;
@@ -109,6 +109,14 @@ body p{
         height: 30px;
     }
 }
+@media (min-width:1440px) {
+    body{
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        max-width: 1440px; 
+        background-color: hsl(210, 60%, 98%);
+    }
+}
+
 
 
 
