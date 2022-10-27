@@ -93,7 +93,7 @@ body p{
 #chess{
     float: right; 
 }
-@media (max-width:375px) {
+@media (min-width:375px) {
     body{
         margin: 0px;
         box-sizing: border-box;
